@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of mypkgr is to help you finding the love of your year.
+The goal of mypkgr is to help you finding the love of your life.
 
 ## Installation
 
