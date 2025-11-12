@@ -15,8 +15,6 @@ knitr::opts_chunk$set(
 
 # mypkgr
 
-Une modification très utile...
-
 <!-- badges: start -->
 <!-- badges: end -->
 

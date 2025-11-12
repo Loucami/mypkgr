@@ -3,8 +3,6 @@
 
 # mypkgr
 
-Une modification très utile…
-
 <!-- badges: start -->
 
 <!-- badges: end -->
