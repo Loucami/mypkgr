@@ -1,6 +1,6 @@
 # mypkgr
 
-The goal of mypkgr is to help you finding the love of your life.
+The goal of **mypkgr** is to help you finding the love of your life.
 
 ## Installation
 
