@@ -1,3 +1,7 @@
+
+# Pour ne pas l'ajouter au package : usethis::use_rbuild_ignore('fonction.R')
+# Pour lier un package à un Git : usethis::create_from_github()
+
 library(microbenchmark)
 
 # Exemple de profiling
