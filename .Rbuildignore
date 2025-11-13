@@ -3,5 +3,6 @@
 ^README\.Rmd$
 ^\.github$
 ^_pkgdown\.yml$
+CompTime.R$
 ^docs$
 ^pkgdown$

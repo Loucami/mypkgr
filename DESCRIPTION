@@ -17,4 +17,5 @@ Config/testthat/edition: 3
 URL: https://github.com/Loucami/mypkgr, https://loucami.github.io/mypkgr/
 BugReports: https://github.com/Loucami/mypkgr/issues
 LinkingTo: 
-    Rcpp
+    Rcpp,
+    RcppArmadillo
