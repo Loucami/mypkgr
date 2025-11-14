@@ -1,11 +1,11 @@
-# Plot of the mvnpdf function
+# Plot of the mvnpdfsmart_par function
 
-Plot of the mvnpdf function
+Plot of the mvnpdfsmart_par function
 
 ## Usage
 
 ``` r
-# S3 method for class 'mvnpdf'
+# S3 method for class 'mvnpdfsmart_par'
 plot(x, ...)
 ```
 
@@ -13,8 +13,8 @@ plot(x, ...)
 
 - x:
 
-  an object of class `mvnpdf` resulting from a call of the `mnvpdf()`
-  function.
+  an object of class `mvnpdfsmart` resulting from a call of the
+  `mnvpdf()` function.
 
 - ...:
 

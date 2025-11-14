@@ -5,6 +5,8 @@ Description de la fonction.
 ## Usage
 
 ``` r
+mvnpdfsmartC(x, mean, varcovM, Log = TRUE)
+
 mvnpdf(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
 ```
 
@@ -45,7 +47,7 @@ mvnpdf(x = matrix(1.96), Log = FALSE)
 #> [1,] 1.96
 #> 
 #> $y
-#> [1]         NA 0.05844094
+#> [1] 0.05844094
 #> 
 #> attr(,"class")
 #> [1] "mvnpdf"

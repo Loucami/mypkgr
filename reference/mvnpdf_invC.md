@@ -41,7 +41,7 @@ mvnpdf(x = matrix(1.96), Log = FALSE)
 #> [1,] 1.96
 #> 
 #> $y
-#> [1]         NA 0.05844094
+#> [1] 0.05844094
 #> 
 #> attr(,"class")
 #> [1] "mvnpdf"
