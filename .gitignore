@@ -5,4 +5,5 @@
 .DS_Store
 .quarto
 docs
-.CompTime.R
+CompTime.R
+ParallelCode.R

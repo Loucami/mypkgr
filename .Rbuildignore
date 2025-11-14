@@ -6,3 +6,4 @@
 CompTime.R$
 ^docs$
 ^pkgdown$
+^ParallelCode\.R$

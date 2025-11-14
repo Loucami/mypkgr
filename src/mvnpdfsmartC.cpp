@@ -3,6 +3,7 @@ using namespace Rcpp;
 using namespace arma;
 
 // [[Rcpp::depends(RcppArmadillo)]]
+//'@rdname mvnpdf
 //'@export
 // [[Rcpp::export]]
 
