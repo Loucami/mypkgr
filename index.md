@@ -1,10 +1,10 @@
 # mypkgr
 
-The goal of **mypkgr** is to help you finding the love of your life.
+The goal of **mypkgr** is to learn how to use a package.
 
 ## Installation
 
-You can install the development version of mypkgr from
+You can install the development version of **mypkgr** from
 [GitHub](https://github.com/) with:
 
 ``` r

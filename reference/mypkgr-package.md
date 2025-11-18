@@ -1,4 +1,4 @@
-# mypkgr: What the Package Does (One Line, Title Case)
+# mypkgr: Example of how to use a package
 
 What the package does (one paragraph).
 

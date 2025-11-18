@@ -9,11 +9,11 @@
 Source:
 [`DESCRIPTION`](https://github.com/Loucami/mypkgr/blob/master/DESCRIPTION)
 
-Last F (2025). *mypkgr: What the Package Does (One Line, Title Case)*. R
-package version 0.0.0.9000, <https://github.com/Loucami/mypkgr>.
+Last F (2025). *mypkgr: Example of how to use a package*. R package
+version 0.0.0.9000, <https://github.com/Loucami/mypkgr>.
 
     @Manual{,
-      title = {mypkgr: What the Package Does (One Line, Title Case)},
+      title = {mypkgr: Example of how to use a package},
       author = {First Last},
       year = {2025},
       note = {R package version 0.0.0.9000},
