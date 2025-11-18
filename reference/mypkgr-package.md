@@ -6,11 +6,11 @@ What the package does (one paragraph).
 
 Useful links:
 
-- <https://github.com/Loucami/mypkgr>
+- <https://github.com/louiscazade/mypkgr>
 
-- <https://loucami.github.io/mypkgr/>
+- <https://louiscazade.github.io/mypkgr/>
 
-- Report bugs at <https://github.com/Loucami/mypkgr/issues>
+- Report bugs at <https://github.com/louiscazade/mypkgr/issues>
 
 ## Author
 
