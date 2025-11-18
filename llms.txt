@@ -1,6 +1,6 @@
 # mypkgr
 
-The goal of **mypkgr** is to learn how to use a package.
+The goal of **mypkgr** is to learn how to use a package !
 
 ## Installation
 
