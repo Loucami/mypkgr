@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.2.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-11-18T13:37Z
+last_built: 2025-11-18T13:43Z
 urls:
   reference: https://loucami.github.io/mypkgr/reference
   article: https://loucami.github.io/mypkgr/articles
