@@ -8,7 +8,7 @@
 [![R-CMD-check](https://github.com/Loucami/mypkgr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Loucami/mypkgr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of **mypkgr** is to learn how to use a package !
+The goal of **mypkgr** is to learn how to use a package.
 
 ## Installation
 
